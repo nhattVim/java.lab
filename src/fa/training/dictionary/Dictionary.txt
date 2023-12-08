@@ -1,0 +1,3 @@
+Cat;Mèo;Cat is very cute
+Dog;Chó;This dog is so noisy
+School;Trường học;My school is so big
